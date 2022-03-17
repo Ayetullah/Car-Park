@@ -1,0 +1,15 @@
+E:\Backend\Car-Park\CarPark.Entities\bin\Debug\net5.0\CarPark.Entities.deps.json
+E:\Backend\Car-Park\CarPark.Entities\bin\Debug\net5.0\CarPark.Entities.dll
+E:\Backend\Car-Park\CarPark.Entities\bin\Debug\net5.0\ref\CarPark.Entities.dll
+E:\Backend\Car-Park\CarPark.Entities\bin\Debug\net5.0\CarPark.Entities.pdb
+E:\Backend\Car-Park\CarPark.Entities\bin\Debug\net5.0\CarPark.Models.dll
+E:\Backend\Car-Park\CarPark.Entities\bin\Debug\net5.0\CarPark.Models.pdb
+E:\Backend\Car-Park\CarPark.Entities\obj\Debug\net5.0\CarPark.Entities.csproj.AssemblyReference.cache
+E:\Backend\Car-Park\CarPark.Entities\obj\Debug\net5.0\CarPark.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend\Car-Park\CarPark.Entities\obj\Debug\net5.0\CarPark.Entities.AssemblyInfoInputs.cache
+E:\Backend\Car-Park\CarPark.Entities\obj\Debug\net5.0\CarPark.Entities.AssemblyInfo.cs
+E:\Backend\Car-Park\CarPark.Entities\obj\Debug\net5.0\CarPark.Entities.csproj.CoreCompileInputs.cache
+E:\Backend\Car-Park\CarPark.Entities\obj\Debug\net5.0\CarPark.Entities.csproj.CopyComplete
+E:\Backend\Car-Park\CarPark.Entities\obj\Debug\net5.0\CarPark.Entities.dll
+E:\Backend\Car-Park\CarPark.Entities\obj\Debug\net5.0\ref\CarPark.Entities.dll
+E:\Backend\Car-Park\CarPark.Entities\obj\Debug\net5.0\CarPark.Entities.pdb

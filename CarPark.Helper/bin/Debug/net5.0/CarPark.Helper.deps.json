@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CarPark.Helper/1.0.0": {
+        "runtime": {
+          "CarPark.Helper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarPark.Helper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

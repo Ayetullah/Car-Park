@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CarPark.Data.Access\CarPark.Data.Access.csproj" />
+    <ProjectReference Include="..\CarPark.Entities\CarPark.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

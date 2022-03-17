@@ -1,0 +1,13 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@using Microsoft.Extensions.Localization
+
+@inject IViewLocalizer localizer
+@inject IStringLocalizer<SharedResource> sharedLocalizer
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>@sharedLocalizer["Welcome"]</h1>
+<h1>@localizer["Title"]</h1>
+

@@ -1,0 +1,12 @@
+E:\Backend\Car-Park\CarPark.Core\bin\Debug\net5.0\CarPark.Core.deps.json
+E:\Backend\Car-Park\CarPark.Core\bin\Debug\net5.0\CarPark.Core.dll
+E:\Backend\Car-Park\CarPark.Core\bin\Debug\net5.0\ref\CarPark.Core.dll
+E:\Backend\Car-Park\CarPark.Core\bin\Debug\net5.0\CarPark.Core.pdb
+E:\Backend\Car-Park\CarPark.Core\obj\Debug\net5.0\CarPark.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend\Car-Park\CarPark.Core\obj\Debug\net5.0\CarPark.Core.AssemblyInfoInputs.cache
+E:\Backend\Car-Park\CarPark.Core\obj\Debug\net5.0\CarPark.Core.AssemblyInfo.cs
+E:\Backend\Car-Park\CarPark.Core\obj\Debug\net5.0\CarPark.Core.csproj.CoreCompileInputs.cache
+E:\Backend\Car-Park\CarPark.Core\obj\Debug\net5.0\CarPark.Core.dll
+E:\Backend\Car-Park\CarPark.Core\obj\Debug\net5.0\ref\CarPark.Core.dll
+E:\Backend\Car-Park\CarPark.Core\obj\Debug\net5.0\CarPark.Core.pdb
+E:\Backend\Car-Park\CarPark.Core\obj\Debug\net5.0\CarPark.Core.csproj.AssemblyReference.cache
